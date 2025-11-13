@@ -75,15 +75,25 @@ Cybersecurity tools and workflows
 Projects will be organized in folders like:
 
 3_Portfolio_Projects/
+
 │
+
 ├── 01_Linux_Permissions/
+
 ├── 02_Security_Audit/
+
 ├── 03_Network_Analysis/
+
 ├── 04_Risk_Assessment/
+
 ├── 05_SQL_Filtering/
+
 ├── 06_Incident_Response_Journal/
+
 ├── 07_Log_Parsing/
+
 ├── 08_TShark_Analysis/
+
 └── 09_Professional_Documents/
 
 
